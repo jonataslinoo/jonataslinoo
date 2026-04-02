@@ -14,8 +14,8 @@ Além das minhas habilidades profissionais, amo tocar bateria na igreja e assist
 ## Conteúdo dos meus repositórios
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslinoo&layout=compact&theme=radical" alt="jonataslinoo"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslinoo&show_icons=true&theme=radical" alt="jonataslinoo"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonataslinoo&layout=compact&theme=radical" alt="jonataslinoo"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonataslinoo&show_icons=true&theme=radical" alt="jonataslinoo"/>
 </div>
 <br>
 Ultimamente estou focado em criar novos repositórios para armazenar alguns projetos pessoais que quero tirar do papel e atualizar alguns que deixei de lado. 
